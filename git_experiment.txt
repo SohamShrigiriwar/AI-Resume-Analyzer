@@ -1,0 +1,6 @@
+Git Version Control Experiment
+
+Project: AI Resume Analyzer
+Experiment: 2
+Purpose: Demonstrate Git version control.
+Operation: File creation and commit.
